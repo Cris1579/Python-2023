@@ -3,10 +3,11 @@ import random
 
 Numeros = [1, 3, 11, 7, 5, 9, 13]
 Numeros.sort(key=None , reverse=True)
-print(Numeros)
+
 #Ahora con palabras
 Palabras = ["Papa","Banana","Zapallo","Tomate"]
 Palabras.sort(key=None , reverse=True)
+print("Lista de palabras")
 print(Palabras)
 
 #Ahora de forma aleatoria
